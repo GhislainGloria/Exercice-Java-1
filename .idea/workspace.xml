@@ -47,7 +47,7 @@
     <configuration name="Main 5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Exercice4.Main" />
       <module name="Exercice2" />
-      <option name="PROGRAM_PARAMETERS" value="abcdt cat" />
+      <option name="PROGRAM_PARAMETERS" value="abcdt cat /a atc" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercice4.*" />
@@ -93,6 +93,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
@@ -126,7 +127,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
